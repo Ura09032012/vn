@@ -1,1 +1,28 @@
-
+body {
+    font-family: sans-serif;
+}
+nav {
+    text-align: center;
+}
+nav a {
+    color: black;
+    padding: 10px;
+    margin: 5px;
+}
+h1 {
+    text-align: center;
+}
+main img {
+    margin:20px ;
+    border-left: 8px dotted black;
+}
+footer {
+    background-color: green;
+}
+.a {
+    background-color: white;
+}
+main p {
+    border: 2px solid black;
+    border-radius: 10px;
+}
